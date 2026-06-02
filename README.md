@@ -48,13 +48,7 @@ Full Stack Developer | MERN Stack | DevOps | AI & Cloud Enthusiast
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkaruppasamy&layout=compact&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api?username=Deepakkaruppasamy&show_icons=true&theme=tokyonight)
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deepakkaruppasamy&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
